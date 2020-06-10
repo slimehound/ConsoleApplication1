@@ -7,7 +7,7 @@ int main()
 {
     std::cout << "Hello World!\n";
 
-    for (int i = -2; i < 10; i++)
+    for (int i = 0; i < 10; i++)
     {
         std::cout << i;
     }
